@@ -1,0 +1,9 @@
+1) npm install react-router-dom -s
+here -s is save package.json file
+
+2) npm cache clear --force
+
+
+3) npm install @material-ui/core @material-ui/icons -s
+
+4) npm install axios
